@@ -1,0 +1,118 @@
+Defining entity constraints...
+Nodal and facet constraints complete.
+Discrete model object containing 26148 nodes and 52292 facets successfully restored.
+Generating surface mesh for 135 of 135 model surfaces.
+Mesh size range: 0.444451 to 3.5.
+Surface meshing completed.
+Importing surface mesh...
+There were 135 surfaces specified at import.
+There were 1 parts specified at import.
+Imported model composed of 54807 nodes and 109576 facets.
+Import time: 1.108 seconds.
+Manifold test:
+Isolated facet count: 0.
+Indeterminant facet edges: 0.
+There were 0 nodes defining the trimming loop(s).
+Non-manifold facet count: 0.
+Manifold check time: 0.54 seconds.
+Imported model is well-connected.
+Imported model contains 1 unique volumes.
+Possible corrupt edge 1
+Possible corrupt edge 4
+Possible corrupt edge 13
+Possible corrupt edge 14
+Possible corrupt edge 15
+Possible corrupt edge 18
+Possible corrupt edge 23
+Possible corrupt edge 28
+Possible corrupt edge 29
+Possible corrupt edge 30
+Possible corrupt edge 33
+Possible corrupt edge 35
+Possible corrupt edge 37
+Possible corrupt edge 39
+Possible corrupt edge 41
+Possible corrupt edge 45
+Possible corrupt edge 46
+Possible corrupt edge 47
+Possible corrupt edge 50
+Possible corrupt edge 52
+Possible corrupt edge 55
+Possible corrupt edge 67
+Possible corrupt edge 68
+Possible corrupt edge 69
+Possible corrupt edge 73
+Possible corrupt edge 76
+Possible corrupt edge 82
+Possible corrupt edge 85
+Possible corrupt edge 87
+Possible corrupt edge 89
+Possible corrupt edge 91
+Possible corrupt edge 93
+Possible corrupt edge 96
+Possible corrupt edge 97
+Possible corrupt edge 99
+Possible corrupt edge 103
+Possible corrupt edge 106
+Possible corrupt edge 108
+Possible corrupt edge 110
+Possible corrupt edge 114
+Possible corrupt edge 116
+Possible corrupt edge 119
+Possible corrupt edge 124
+Possible corrupt edge 127
+Possible corrupt edge 128
+Possible corrupt edge 130
+Possible corrupt edge 131
+Possible corrupt edge 135
+Possible corrupt edge 140
+Possible corrupt edge 141
+Possible corrupt edge 142
+Possible corrupt edge 145
+Possible corrupt edge 146
+Possible corrupt edge 147
+Possible corrupt edge 150
+Possible corrupt edge 153
+Possible corrupt edge 154
+Possible corrupt edge 156
+Possible corrupt edge 158
+Possible corrupt edge 162
+Possible corrupt edge 165
+Possible corrupt edge 167
+Possible corrupt edge 171
+Possible corrupt edge 173
+Possible corrupt edge 175
+Possible corrupt edge 177
+Possible corrupt edge 179
+Possible corrupt edge 181
+Possible corrupt edge 185
+Possible corrupt edge 187
+Possible corrupt edge 188
+Possible corrupt edge 189
+Possible corrupt edge 191
+Possible corrupt edge 192
+Possible corrupt edge 193
+Possible corrupt edge 194
+Possible corrupt edge 196
+Possible corrupt edge 201
+Possible corrupt edge 204
+Possible corrupt edge 205
+Possible corrupt edge 206
+Possible corrupt edge 208
+Possible corrupt edge 211
+Possible corrupt edge 212
+Possible corrupt edge 213
+Possible corrupt edge 215
+Possible corrupt edge 216
+Possible corrupt edge 221
+Possible corrupt edge 222
+Possible corrupt edge 223
+Possible corrupt edge 226
+Possible corrupt edge 228
+Possible corrupt edge 231
+Possible corrupt edge 232
+Possible corrupt edge 233
+Possible corrupt edge 234
+Possible corrupt edge 237
+Possible corrupt edge 238
+Possible corrupt edge 239

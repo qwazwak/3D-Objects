@@ -1,0 +1,13 @@
+[Thu Feb 1 18:47:22 2018] Reading CPU information from SystemInfo.xml
+[Thu Feb 1 18:47:22 2018] Processors: 1, Cores per processor: 8
+[Thu Feb 1 18:47:22 2018] Requested cores 0
+[Thu Feb 1 18:47:22 2018] Using 9 ranks
+[Thu Feb 1 18:47:22 2018] analysis path:E:\Libraries\3D Objects\testX000\Design 1\Scenario 1
+[Thu Feb 1 18:47:22 2018] Listen on port 49870
+[Thu Feb 1 18:47:22 2018] Email file: C:\ProgramData\Autodesk\CFD 2018\Analyze\job1/email.xml
+[Thu Feb 1 18:47:22 2018] startJob
+[Thu Feb 1 18:47:22 2018] Creating C:\ProgramData\Autodesk\CFD 2018\Analyze\job1/job.bat
+[Thu Feb 1 18:47:22 2018] Command: cmd.exe /c job.bat
+[Thu Feb 1 18:47:22 2018]  output:C:\ProgramData\Autodesk\CFD 2018\Analyze\job1>CD E:\Programs\Autodesk\CFD 2018
+[Thu Feb 1 18:47:22 2018]  output:C:\ProgramData\Autodesk\CFD 2018\Analyze\job1>"E:\Programs\Autodesk\CFD 2018\CFDMesher.exe" "E:\Libraries\3D Objects\testX000\Design 1\Scenario 1\mesher\Scenario 1" -jobId=1 -cloudJobId=  -gui  -useJ
+[Thu Feb 1 18:47:22 2018]  output:obFile  -port=49870
